@@ -1,23 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="vLoqX0MHvOKwgN3aKJJ5">
-    <mxGraphModel dx="1298" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FY68DDQZiyLejfqbOedz-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Rooms DB&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="FY68DDQZiyLejfqbOedz-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Rooms DB&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="110" width="70" x="200" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="FY68DDQZiyLejfqbOedz-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Bookings DB&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="FY68DDQZiyLejfqbOedz-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Bookings DB&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="110" width="65" x="395" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="FY68DDQZiyLejfqbOedz-30" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Guests&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp;DB&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FY68DDQZiyLejfqbOedz-30" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#528699;rotation=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;gradientColor=none;shadow=1;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Guests&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp;DB&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="70" x="600" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="3xjplqKmI5YxfrXdYvkr-2" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=default;strokeColor=#528699;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillStyle=solid;" value="" vertex="1">
+        <mxCell id="3xjplqKmI5YxfrXdYvkr-2" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=default;strokeColor=#528699;sketch=1;jiggle=2;curveFitting=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillStyle=solid;shadow=1;rounded=0;" value="" vertex="1">
           <mxGeometry height="60" width="50" x="100" y="410" as="geometry" />
         </mxCell>
         <mxCell id="3xjplqKmI5YxfrXdYvkr-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Automation Trigger&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3xjplqKmI5YxfrXdYvkr-5" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.whatsapp;fillColor=#00E676;strokeColor=#dddddd;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="" vertex="1">
+          <mxGeometry height="74.8" width="74.4" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3xjplqKmI5YxfrXdYvkr-6" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.gmail;strokeColor=#528699;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" value="" vertex="1">
+          <mxGeometry height="46.800000000000004" width="64.8" x="535.2" y="443.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
